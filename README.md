@@ -31,6 +31,15 @@ The synth is designed to stay in tune in a wide range of temperatures (16-40°) 
 
 ![3](https://github.com/user-attachments/assets/0741ba0a-dae5-40de-8d5b-746bfd7262bb)
 
+Once I fine-tuned the phase modulation oscillator, I implemented waveform converters to generate triangle, sine, and square waves from a sawtooth signal.
+
+Origami is made out of two main modules: the Operator module and the PSU module. Four Operator modules are connected in series with a final PSU module.
+I chose this modular system to keep PCB production costs low, but it can easily be adapted into a single PCB design or even expanded with additional future modules to add future functionalities.
+
+![4](https://github.com/user-attachments/assets/5243340a-e377-48f6-9401-48cd9d5810c8)
+
+![IMG_6359](https://github.com/user-attachments/assets/7fb8635e-9763-40ce-b6ee-279a953f4b3e)
+
 Code for the MIDI interface:
 https://github.com/PaoloEstorm/MIDI-to-CV
 
