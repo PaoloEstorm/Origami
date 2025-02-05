@@ -1,7 +1,7 @@
 Origami: the synth that breaks the rules (or not?)
 ![Logo Origami](https://github.com/user-attachments/assets/805f6224-f6e8-4783-ae50-3f2e9cf1f2a2)
 
-Origami is a synthesizer capable of generating sounds through Phase Modulation (PM), Frequency Modulation (FM), Amplitude Modulation (AM), Phase Distortion (PD), Wave Folding, and Additive Synthesis. Its intermodularity makes it super fun and intuitive to explore and create complex sounds!
+Estorm Origami is the first Analog Synthesizer capable of Phase Modulation (PM), Frequency Modulation (FM), Amplitude Modulation (AM), Phase Distortion (PD), Wave Folding, and Additive Synthesis. Its intermodularity makes it fun and intuitive to explore and create complex sounds!
 
 [![This Synth Breaks The Rules](https://github.com/user-attachments/assets/e44ff963-27a0-4a93-9d2d-e1a0a9317ccf)](https://youtu.be/fYJeXG9gMpo "This Synth Breaks The Rules")
 
