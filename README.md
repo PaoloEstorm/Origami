@@ -25,8 +25,6 @@ Move the PHASE bar and see what happens!
 
 After tons of trial and error, I finally designed a simple but effective system that can shift phase up to 1080° (three full 360° rotations). Based on my analysis of various synths, that’s more than enough to create deep modulations and complex timbres.
 
-![1](https://github.com/user-attachments/assets/809f5ae6-09f3-4d24-bfaa-d2cc60eb9987)
-
 The synth is designed to stay in tune in a wide range of temperatures (16-40°) by using thermistors, cermet trimmers and NP0 capacitors.
 
 ![3](https://github.com/user-attachments/assets/0741ba0a-dae5-40de-8d5b-746bfd7262bb)
