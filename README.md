@@ -1,4 +1,5 @@
 Origami: the synth that breaks the rules (or not?)
+![Logo Origami](https://github.com/user-attachments/assets/805f6224-f6e8-4783-ae50-3f2e9cf1f2a2)
 
 Origami is a synthesizer capable of generating sounds through Phase Modulation (PM), Frequency Modulation (FM), Amplitude Modulation (AM), Phase Distortion (PD), Wave Folding, and Additive Synthesis. Its intermodularity makes it super fun and intuitive to explore and create complex sounds!
 
