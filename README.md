@@ -48,3 +48,6 @@ https://amzn.eu/d/dQfOkpd
 
 AC/DC Adapter Link (IT)
 https://www.amazon.it/dp/B09MYL5KBQ?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1
+
+![IMG_1935](https://github.com/user-attachments/assets/d6924d77-4872-414d-8fd6-fa7013fcd34f)
+
