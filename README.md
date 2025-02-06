@@ -73,3 +73,6 @@ https://it.rs-online.com/web/p/potenziometri/1670101
 
 Potentiometer Knobs (CH)
 https://it.aliexpress.com/item/32955417001.html
+
+Precision Trimmer (DE)
+https://amzn.eu/d/e85j6hm
