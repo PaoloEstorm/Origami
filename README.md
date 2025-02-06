@@ -64,24 +64,27 @@ Coming up, I'll be designing a new version of Origami using almost exclusively S
 
 PCBs and front panel by JLCPCB
 
-Thermistor Link (IT)
+Thermistors
 https://amzn.eu/d/2uYDJzZ
 
-AC/DC Adapter Link (IT)
+AC/DC Adapter
 https://www.amazon.it/dp/B09MYL5KBQ?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1
 
-Potentiometers (IT)
+Potentiometers
 https://it.rs-online.com/web/p/potenziometri/1670101
 
-Potentiometer Knobs (CH)
+Potentiometer Knobs
 https://it.aliexpress.com/item/32955417001.html
 
-Precision Trimmer (DE)
+Precision Trimmer
 https://amzn.eu/d/e85j6hm
 
 Resistors, capacitors, trimmers, slide switches, op-amps, diodes, transistors & chip sockets (IT)
 http://www.graziacomponenti.it/index.php
 
-Pin Headers (IT)
+Pin Headers
 https://amzn.eu/d/9up7Byu
 https://amzn.eu/d/d3ZOwLH
+
+Audio jacks
+https://amzn.eu/d/7R5lwUS
