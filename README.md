@@ -90,3 +90,6 @@ https://amzn.eu/d/d3ZOwLH
 
 Audio jacks
 https://amzn.eu/d/7R5lwUS
+
+LEDs
+https://amzn.eu/d/5YtIw9u
