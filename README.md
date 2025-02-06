@@ -56,11 +56,13 @@ Coming up, I'll be designing a new version of Origami using almost exclusively S
 
 ## If you liked my project, stick around for more! Follow me to stay updated on all my past, present, and future creations!
 
-Code for the MIDI interface:
-https://github.com/PaoloEstorm/MIDI-to-CV
+## PCB Design & Schematics:
+## https://oshwlab.com/estorm/origami
 
-PCB Design & Schematics:
-https://oshwlab.com/estorm/origami
+## Code for the MIDI interface:
+## https://github.com/PaoloEstorm/MIDI-to-CV
+
+PCBs and front panel by JLCPCB
 
 Thermistor Link (IT)
 https://amzn.eu/d/2uYDJzZ
@@ -76,3 +78,10 @@ https://it.aliexpress.com/item/32955417001.html
 
 Precision Trimmer (DE)
 https://amzn.eu/d/e85j6hm
+
+Resistors, capacitors, trimmers, slide switches, op-amps, diodes, transistors & chip sockets (IT)
+http://www.graziacomponenti.it/index.php
+
+Pin Headers (IT)
+https://amzn.eu/d/9up7Byu
+https://amzn.eu/d/d3ZOwLH
