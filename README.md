@@ -62,14 +62,14 @@ https://github.com/PaoloEstorm/MIDI-to-CV
 PCB Design & Schematics:
 https://oshwlab.com/estorm/origami
 
-Thermistor Link (UK)
-https://amzn.eu/d/gloktOI
-
 Thermistor Link (IT)
 https://amzn.eu/d/2uYDJzZ
 
-AC/DC Adapter Link (UK)
-https://amzn.eu/d/dQfOkpd
-
 AC/DC Adapter Link (IT)
 https://www.amazon.it/dp/B09MYL5KBQ?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1
+
+Potentiometers (IT)
+https://it.rs-online.com/web/p/potenziometri/1670101
+
+Potentiometer Knobs (CH)
+https://it.aliexpress.com/item/32955417001.html
