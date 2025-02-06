@@ -81,7 +81,7 @@ https://it.aliexpress.com/item/32955417001.html
 Precision Trimmer
 https://amzn.eu/d/e85j6hm
 
-Resistors, capacitors, trimmers, slide switches, op-amps, diodes, transistors & chip sockets (IT)
+Resistors, capacitors, trimmers, slide switches, op-amps, diodes, transistors & chip sockets
 http://www.graziacomponenti.it/index.php
 
 Pin Headers
