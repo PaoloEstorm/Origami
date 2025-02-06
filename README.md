@@ -42,9 +42,11 @@ In the PSU module, you'll find power delivery circuitry, a MIDI-to-CV converter,
 Four Operator modules are connected in series with a final PSU module.
 I chose this modular system to keep PCB production costs low, but it can easily be adapted into a single PCB design or even expanded with additional future modules to add future functionalities.
 
-![11](https://github.com/user-attachments/assets/4afcab0b-4374-4592-86e3-4aad3e6e634d)
+![PCB_3D](https://github.com/user-attachments/assets/034dcf1f-b040-475c-9769-999bdc3216ca)
 
 The front panel can be made as a fiberglass PCB or aluminum, directly alongside the PCBs of the modules.
+
+![11](https://github.com/user-attachments/assets/4afcab0b-4374-4592-86e3-4aad3e6e634d)
 
 ![IMG_1875](https://github.com/user-attachments/assets/f2063af9-dec1-4855-baaf-c1de14402843)
 
