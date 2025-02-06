@@ -1,7 +1,7 @@
-Origami: the synth that breaks the rules (or not?)
+# Origami: the synth that breaks the rules (or not?)
 ![Logo Origami](https://github.com/user-attachments/assets/805f6224-f6e8-4783-ae50-3f2e9cf1f2a2)
 
-Estorm Origami is the first Analog Synthesizer capable of Phase Modulation (PM), Frequency Modulation (FM), Amplitude Modulation (AM), Phase Distortion (PD), Wave Folding, and Additive Synthesis. Its intermodularity makes it fun and intuitive to explore and create complex sounds!
+## Estorm Origami is the first Analog Synthesizer capable of Phase Modulation (PM), Frequency Modulation (FM), Amplitude Modulation (AM), Phase Distortion (PD), Wave Folding, and Additive Synthesis. Its intermodularity makes it fun and intuitive to explore and create complex sounds!
 
 [![This Synth Breaks The Rules](https://github.com/user-attachments/assets/e44ff963-27a0-4a93-9d2d-e1a0a9317ccf)](https://youtu.be/fYJeXG9gMpo "This Synth Breaks The Rules")
 
@@ -33,16 +33,28 @@ Once I fine-tuned the phase modulation oscillator, I implemented waveform conver
 
 ![4](https://github.com/user-attachments/assets/5243340a-e377-48f6-9401-48cd9d5810c8)
 
-Origami is made out of two main modules: the Operator module and the PSU module. Four Operator modules are connected in series with a final PSU module.
-I chose this modular system to keep PCB production costs low, but it can easily be adapted into a single PCB design or even expanded with additional future modules to add future functionalities.
+Origami is made out of two main modules: the Operator module and the PSU module.
+Each Operator module comes with an oscillator, a wavefolder, a VCA, and a special envelope generator—I'll tell you all about it below.
+In the PSU module, you'll find power delivery circuitry, a MIDI-to-CV converter, a slider that can be used both for calibration and for controlling any parameter, and a mixer.
 
 ![IMG_6359](https://github.com/user-attachments/assets/7fb8635e-9763-40ce-b6ee-279a953f4b3e)
 
+Four Operator modules are connected in series with a final PSU module.
+I chose this modular system to keep PCB production costs low, but it can easily be adapted into a single PCB design or even expanded with additional future modules to add future functionalities.
+
 ![11](https://github.com/user-attachments/assets/4afcab0b-4374-4592-86e3-4aad3e6e634d)
+
+The front panel can be made as a fiberglass PCB or aluminum, directly alongside the PCBs of the modules.
 
 ![IMG_1875](https://github.com/user-attachments/assets/f2063af9-dec1-4855-baaf-c1de14402843)
 
+I built the case using a 4mm MDF sheet, cut and assembled with hot glue. You'll find a schematic in the attachments.
+
 ![IMG_1935](https://github.com/user-attachments/assets/d6924d77-4872-414d-8fd6-fa7013fcd34f)
+
+Coming up, I'll be designing a new version of Origami using almost exclusively SMD components. This will significantly reduce both production costs and assembly time.
+
+## If you liked my project, stick around for more! Follow me to stay updated on all my past, present, and future creations!
 
 Code for the MIDI interface:
 https://github.com/PaoloEstorm/MIDI-to-CV
