@@ -54,7 +54,7 @@ I built the case using a 4mm MDF sheet, cut and assembled with hot glue. You'll 
 
 ![IMG_1935](https://github.com/user-attachments/assets/d6924d77-4872-414d-8fd6-fa7013fcd34f)
 
-Coming up, I'll be designing a new version of Origami using almost exclusively SMD components. This will significantly reduce both production costs and assembly time.
+Coming up, I'll be designing a newer version using almost exclusively SMD components. This will significantly reduce both production costs and assembly time.
 
 ## If you liked my project, stick around for more! Follow me to stay updated on all my past, present, and future creations!
 
