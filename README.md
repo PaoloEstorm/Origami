@@ -93,3 +93,6 @@ https://amzn.eu/d/7R5lwUS
 
 LEDs
 https://amzn.eu/d/5YtIw9u
+
+Midi Socket
+https://amzn.eu/d/6JqshNi
